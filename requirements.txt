@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+langchain-community 
+beautifulsoup4
+requests
+youtube_transcript_api
+pypdf
+flet 
+
+langchain-core
+langchain-openai
+chromadb
+python-dotenv
+openai
+PyPDF2
+faiss-cpu
+numexpr
